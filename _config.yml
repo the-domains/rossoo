@@ -1,0 +1,14 @@
+layout_spectrum: 0.7647983
+typography_spectrum: 0.4410748
+color:
+  saturation: 0.01919918
+  lightness: 0.7496194
+  brandStrength: 0.4848505
+  rhythmicContrast: 0.2195898
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Rossoo
