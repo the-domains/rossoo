@@ -1,14 +1,26 @@
-layout_spectrum: 0.7647983
-typography_spectrum: 0.4410748
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.01919918
-  lightness: 0.7496194
-  brandStrength: 0.4848505
-  rhythmicContrast: 0.2195898
+  saturation: 0.1632463
+  brandStrength: 0.6543843
+  lightness: 0.7266791
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
+  rhythmicContrast: 0.2798508
+typography_spectrum: 0.1203358
+layout_spectrum: 0.1431903
 name: Rossoo
