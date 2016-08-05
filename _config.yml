@@ -12,15 +12,15 @@ collections:
       number: 10
 color:
   saturation: 0.1632463
-  brandStrength: 0.6543843
-  lightness: 0.7266791
+  brandStrength: 0.9263059
+  lightness: 0.5858209
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  rhythmicContrast: 0.2798508
-typography_spectrum: 0.1203358
-layout_spectrum: 0.1431903
+  rhythmicContrast: 0.9253731
+typography_spectrum: 0.1492537
+layout_spectrum: 1
 name: Rossoo
