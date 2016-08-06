@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.375
 color:
   saturation: 0
-  brandStrength: 0.9263059
+  brandStrength: 0.5699627
   lightness: 0
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#5E6472'
+    - '#8F94A7'
+    - '#6E854F'
+    - '#41342C'
+    - '#9FC28C'
   rhythmicContrast: 0.006996269
-typography_spectrum: 0.1492537
 layout_spectrum: 0.8232276
 name: Rossoo
