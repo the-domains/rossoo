@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.375
 color:
   saturation: 0
   brandStrength: 0.5699627
-  lightness: 0
+  rhythmicContrast: 0.006996269
   brandColors:
     - '#5E6472'
     - '#8F94A7'
     - '#6E854F'
     - '#41342C'
     - '#9FC28C'
-  rhythmicContrast: 0.006996269
-layout_spectrum: 0.8232276
+  lightness: 0
+layout_spectrum: 0.1218638
 name: Rossoo
