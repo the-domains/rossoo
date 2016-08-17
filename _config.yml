@@ -11,7 +11,7 @@ color:
     - '#9FC28C'
   lightness: 0
 layout_spectrum: 0.1218638
-name: Rossoo
+name: Rossoow
 collections:
   - index:
       path: /
@@ -25,3 +25,4 @@ collections:
     permalink:
       path: '/:title/'
 title: Jake Xon
+description: Grrrrrr
