@@ -1,16 +1,16 @@
-typography_spectrum: 0.375
+typography_spectrum: 0.5983059501741081
 color:
-  saturation: 0
-  brandStrength: 0.5699627
-  rhythmicContrast: 0.006996269
+  saturation: 0.20893412921577692
+  brandStrength: 0.3910353390965611
+  rhythmicContrast: 0.9666064651682973
   brandColors:
-    - '#5E6472'
-    - '#8F94A7'
-    - '#6E854F'
-    - '#41342C'
-    - '#9FC28C'
-  lightness: 0
-layout_spectrum: 0.1218638
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  lightness: 0.2863624142482877
+layout_spectrum: 0.3415696343872696
 name: Rossoow
 collections:
   - index:
