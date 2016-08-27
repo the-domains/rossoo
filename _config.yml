@@ -5,24 +5,24 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.8386194
-  brandStrength: 0.5699627
-  lightness: 1
+  saturation: 0.3565163
+  brandStrength: 0.1184211
+  lightness: 0.7800752
   brandColors:
     - '#5E6472'
     - '#8F94A7'
     - '#6E854F'
     - '#41342C'
     - '#9FC28C'
-  rhythmicContrast: 1
-typography_spectrum: 0.375
+  rhythmicContrast: 0.7456141
+typography_spectrum: 0.1096491
 description: Grrrrrr
-layout_spectrum: 0.1218638
+layout_spectrum: 0.2612782
 name: Rossoow
